@@ -30,10 +30,12 @@ include"./components/layouts/head.php";
     </tr>
   </tbody>
 </table>
-<?php
-include"./components/layouts/form.php"
-?>
+
+
+
 
 <?php
-include"./components/layouts/footer.php"
-?>
+
+   
+    
+   ?>
